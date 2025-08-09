@@ -83,6 +83,13 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/GFiatt/RayTracerC">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GFiatt&repo=RayTracerC&theme=github_dark&hide_border=true&cache_seconds=14400&v=2" />
+      </a>
+    </td>
+  </tr>
 </table>
 </div>
 
