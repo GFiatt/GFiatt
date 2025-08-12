@@ -1,44 +1,51 @@
 
-<h1 align="center">Gabriel Fiatt Vargas</h1>
+<h1 align="center" style="color:#F0F567;">Gabriel Fiatt Vargas</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=90&lines=Computer+Engineering+Student+%7C+ITCR;Python%2C+C%2B%2B%2C+C%2C+Java%2C+JS%2C+C%23+%E2%80%94+Unity;"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=90&color=%23F0F567&lines=Computer+Engineering+Student+%7C+ITCR;Python%2C+C%2B%2B%2C+C%2C+Java%2C+JS%2C+C%23+%E2%80%94+Unity;"
       alt="Animated typing"
     />
   </a>
 </p>
 
+
+
 <p align="center">
-  <!-- Badges  -->
-  
   <a href="https://github.com/GFiatt?tab=followers">
-    <img src="https://img.shields.io/github/followers/GFiatt?label=Follow&style=for-the-badge" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/GFiatt?label=Follow&style=for-the-badge&color=F0F567&logoColor=black" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=GFiatt&style=for-the-badge&label=Profile+views" alt="Profile views" />
-  <img src="https://img.shields.io/badge/TEC-Computer%20Engineering-blueviolet?style=for-the-badge" alt="TEC" />
-  <img src="https://img.shields.io/badge/Open%20to%20Internships-Yes-success?style=for-the-badge" alt="Open to internships" />
+  <img src="https://img.shields.io/badge/TEC-Computer%20Engineering-blueviolet?style=for-the-badge&color=F0F567&logoColor=black" alt="TEC" />
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-Yes-success?style=for-the-badge&logoColor=black" alt="Open to internships" />
   
 </p>
 
 <!-- Enlaces rápidos  -->
 <p align="center">
   <a href="https://github.com/GFiatt"><img src="https://img.shields.io/badge/GitHub-GFiatt-181717?style=flat&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-fiatt-vargas-741591379/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-fiatt-vargas-741591379/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-F0F567?style=flat&logo=linkedin&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-### ⚡ About Me
-- 🎓 Computer Engineering student at Costa Rica Institute of Technology.
-- 💻 Interests: systems, optimization, graphics, low level programming, Linux technologies and Web Developing.
-- 🧪 I like to build projects based on good quality and best programming practices.
-- 🔭 Currently working on innovative and well organized projects.
+<!-- About Me -->
+<img src="https://img.shields.io/static/v1?label=%20&message=About%20Me&color=0D1117&labelColor=F0F567&style=for-the-badge&logo=github&logoColor=F0F567&logoWidth=12">
+
+<ul type="square">
+  <li> Computer Engineering student at Costa Rica Institute of Technology.</li>
+  <li> Interests: systems, optimization, graphics, low level programming, Linux technologies and Web Developing.</li>
+  <li> I like to build projects based on good quality and best programming practices.</li>
+  <li> Currently working on innovative and well organized projects.</li>
+</ul>
+
 
 ---
 
-### 🧰 Tech Stack
+<!-- Tech Stack -->
+<img src="https://img.shields.io/static/v1?label=%20&message=Tech%20Stack&color=0D1117&labelColor=F0F567&style=for-the-badge&logo=github&logoColor=F0F567&logoWidth=12">
 
 <!-- Lenguajes -->
 <p>
@@ -66,7 +73,9 @@
 
 ---
 
-### 📦 Relevant Projects
+<!-- Relevant Projects -->
+<img src="https://img.shields.io/static/v1?label=%20&message=Relevant%20Projects&color=0D1117&labelColor=F0F567&style=for-the-badge&logo=github&logoColor=F0F567&logoWidth=12">
+
 
 <div align="center">
 
@@ -74,19 +83,19 @@
   <tr>
     <td>
       <a href="https://github.com/GFiatt/TextFileAnalysis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GFiatt&repo=TextFileAnalysis&theme=github_dark&hide_border=true&cache_seconds=14400&v=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GFiatt&repo=TextFileAnalysis&hide_border=true&title_color=F0F567&text_color=C9D1D9&icon_color=F0F567&bg_color=0D1117" />
       </a>
     </td>
     <td>
       <a href="https://github.com/GFiatt/simulador_mmu">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GFiatt&repo=simulador_mmu&theme=github_dark&hide_border=true" alt="triangle-compiler-java" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GFiatt&repo=simulador_mmu&hide_border=true&title_color=F0F567&text_color=C9D1D9&icon_color=F0F567&bg_color=0D1117" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/GFiatt/RayTracerC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GFiatt&repo=RayTracerC&theme=github_dark&hide_border=true&cache_seconds=14400&v=2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GFiatt&repo=RayTracerC&hide_border=true&title_color=F0F567&text_color=C9D1D9&icon_color=F0F567&bg_color=0D1117" />
       </a>
     </td>
   </tr>
@@ -95,30 +104,35 @@
 
 ---
 
-### 📊 Statistics
+<!-- Statistics -->
+<!--
+<img src="https://img.shields.io/static/v1?label=%20&message=Statistics&color=0D1117&labelColor=F0F567&style=for-the-badge&logo=github&logoColor=F0F567&logoWidth=12">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=GFiatt&theme=github-dark-blue&hide_border=true" height="180" alt="streaks" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GFiatt&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFiatt&layout=compact&theme=github_dark&hide_border=true" height="180" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GFiatt&show_icons=true&hide_border=true&title_color=F0F567&icon_color=F0F567&text_color=C9D1D9&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GFiatt&layout=compact&hide_border=true&title_color=F0F567&text_color=C9D1D9&bg_color=0D1117" height="180" />
 </div>
+-->
 
 <!-- Actividad  -->
+<!--
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GFiatt&theme=github-dark&hide_border=true" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GFiatt&bg_color=0D1117&color=C9D1D9&line=F0F567&point=F0F567&area=true&hide_border=true" />
 </div>
 
 ---
+-->
 
 <details>
-  <summary>📚 Courses and Certifications</summary>
+  <summary>📜 Courses and Certifications</summary>
 
 - Cambridge English B2 (FCE).
 - Courses: Data Structures, OOP, Computer Architecture, Algorithm Analysis, Data Bases I & II, Programming Languages, Software Requirements, Project Managing, Compilers and Interpreters, Software Design, Operations Reaserch, Computer Graphics, Operating Systems, Software Quality Assurance, Video Game Design, Artificial Intelligence, Computer Networks and Software Engineer Project.
 </details>
 
 <details>
-  <summary>🧪 Technical Interests</summary>
+  <summary>💻 Technical Interests</summary>
 
 - Low-level software development
 - Optimizing software.
@@ -128,6 +142,8 @@
 
 ---
 
-### 🤝 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fiatt-vargas-741591379/)
+
+<img src="https://img.shields.io/static/v1?label=%20&message=Contact&color=0D1117&labelColor=F0F567&style=for-the-badge&logo=github&logoColor=F0F567&logoWidth=12">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F0F567?logo=linkedin&logoColor=black)](https://www.linkedin.com/in/gabriel-fiatt-vargas-741591379/)
 
